@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 12.7//EN
+N:Grenet;David;;;
+FN:David Grenet
+ORG:Ciel et lumière;
+EMAIL;type=INTERNET;type=HOME;type=pref:contact@ciel-et-lumiere.fr
+TEL;type=CELL;type=VOICE;type=pref:0626920033
+ADR;type=WORK;type=pref:;;24 rue des Broderies;Coignières;;78310;
+X-SOCIALPROFILE;type=INSTAGRAM:https://www.instagram.com/ciel.et.lumiere/
+URL;type=WORK;type=pref:https://www.ciel-et-lumiere.fr
+END:VCARD
